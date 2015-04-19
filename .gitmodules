@@ -46,3 +46,15 @@
 [submodule "bundle/ropevim"]
 	path = bundle/ropevim
 	url = https://github.com/python-rope/ropevim.git
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = https://github.com/scrooloose/syntastic.git
+[submodule "bundle/jedi-vim"]
+	path = bundle/jedi-vim
+	url = https://github.com/davidhalter/jedi-vim.git
+[submodule "bundle/--recursive"]
+	path = bundle/--recursive
+	url = https://github.com/davidhalter/jedi-vim.git
+[submodule "bundle/vim-scala"]
+	path = bundle/vim-scala
+	url = https://github.com/derekwyatt/vim-scala.git
