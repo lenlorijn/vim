@@ -48,9 +48,10 @@ nmap <leader>a <Esc>:Ack!
 set statusline+=%{fugitive#statusline()}
 
 " Execute the tests
- nmap <silent><Leader>tf <Esc>:Pytest file<CR>
- nmap <silent><Leader>tc <Esc>:Pytest class<CR>
- nmap <silent><Leader>tm <Esc>:Pytest method<CR>
+ nmap <silent><Leader>f <Esc>:Pytest file<CR>
+ nmap <silent><Leader>c <Esc>:Pytest class<CR>
+ nmap <silent><Leader>m <Esc>:Pytest method<CR>
+ nmap <silent><Leader>p <Esc>:Pytest project<CR>
 " " cycle through test errors
  nmap <silent><Leader>tn <Esc>:Pytest next<CR>
  nmap <silent><Leader>tp <Esc>:Pytest previous<CR>
@@ -64,3 +65,5 @@ set statusline+=%{fugitive#statusline()}
  let g:syntastic_auto_loc_list = 1
  let g:syntastic_check_on_open = 1
  let g:syntastic_check_on_wq = 0
+ 
+let g:GPGPreferSymmetric = 1
