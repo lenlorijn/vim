@@ -61,6 +61,4 @@
 [submodule "bundle/vim-json"]
 	path = bundle/vim-json
 	url = https://github.com/elzr/vim-json.git
-[submodlue "bundle/i3-vim-syntax"]
-  path = bundle/i3-vim-syntax
-  url = https://github.com/PotatoesMaster/i3-vim-syntax.git
+
