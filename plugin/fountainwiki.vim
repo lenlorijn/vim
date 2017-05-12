@@ -43,7 +43,7 @@ if !exists('FountainWiki_Card_Right')
 	let FountainWiki_Card_Right = 0
 endif
 if !exists('FountainWiki_Card_Only')
-	let FountainWiki_Card_Only = 1
+	let FountainWiki_Card_Only = 0
 endif
 if !exists('FountainWiki_Lowercase_Filename')
 	let FountainWiki_Lowercase_Filename = 1
@@ -52,7 +52,7 @@ if !exists('FountainWiki_Filename_Token')
 	let FountainWiki_Filename_Token = ''
 endif
 if !exists('FountainWiki_Card_StayOpen')
-	let FountainWiki_Card_StayOpen = 0
+	let FountainWiki_Card_StayOpen = 1
 endif
 
 "}}}
