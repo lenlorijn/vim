@@ -67,3 +67,9 @@
 [submodule "bundle/undotree"]
 	path = bundle/undotree
 	url = git@github.com:mbbill/undotree.git
+[submodule "bundle/mediawiki"]
+	path = bundle/mediawiki
+	url = https://github.com/chikamichi/mediawiki.vim
+[submodule "bundle/csv.vim"]
+	path = bundle/csv.vim
+	url = git@github.com:chrisbra/csv.vim.git
