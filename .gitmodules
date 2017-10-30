@@ -73,3 +73,6 @@
 [submodule "bundle/csv.vim"]
 	path = bundle/csv.vim
 	url = git@github.com:chrisbra/csv.vim.git
+[submodule "/home/len/.vim/bundle/vim-go"]
+	path = /home/len/.vim/bundle/vim-go
+	url = https://github.com/fatih/vim-go.git
