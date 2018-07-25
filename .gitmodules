@@ -64,3 +64,9 @@
 [submodule "bundle/vim-go"]
 	path = /home/len/.vim/bundle/vim-go
 	url = https://github.com/fatih/vim-go.git
+[submodule "bundle/logstash"]
+	path = bundle/logstash
+	url = https://github.com/robbles/logstash.vim
+[submodule "bundle/vim-gitgutter"]
+	path = bundle/vim-gitgutter
+	url = git@github.com:airblade/vim-gitgutter.git
