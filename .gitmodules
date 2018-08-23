@@ -1,75 +1,75 @@
 [submodule "bundle/fugitive"]
 	path = bundle/fugitive
-	url = http://github.com/tpope/vim-fugitive.git
+	url = git@github.com:tpope/vim-fugitive.git
 [submodule "bundle/surround"]
 	path = bundle/surround
-	url = https://github.com/tpope/vim-surround.git
+	url = git@github.com:tpope/vim-surround.git
 [submodule "bundle/git"]
 	path = bundle/git
-	url = https://github.com/tpope/vim-git.git
+	url = git@github.com:tpope/vim-git.git
 [submodule "pyflakes-pathogen"]
 	path = pyflakes-pathogen
-	url = https://github.com/mitechie/pyflakes-pathogen.git
+	url = git@github.com:mitechie/pyflakes-pathogen.git
 [submodule "bundle/pydoc"]
 	path = bundle/pydoc
-	url = https://github.com/fs111/pydoc.vim.git
+	url = git@github.com:fs111/pydoc.vim.git
 [submodule "bundle/pep8"]
 	path = bundle/pep8
-	url = https://github.com/vim-scripts/pep8.git
+	url = git@github.com:vim-scripts/pep8.git
 [submodule "bundle/py.test"]
 	path = bundle/py.test
-	url = https://github.com/alfredodeza/pytest.vim.git
+	url = git@github.com:alfredodeza/pytest.vim.git
 [submodule "bundle/makegreen"]
 	path = bundle/makegreen
-	url = https://github.com/reinh/vim-makegreen
+	url = git@github.com:reinh/vim-makegreen
 [submodule "bundle/tasklist"]
 	path = bundle/tasklist
-	url = https://github.com/vim-scripts/TaskList.vim.git
+	url = git@github.com:vim-scripts/TaskList.vim.git
 [submodule "bundle/ropevim"]
 	path = bundle/ropevim
-	url = https://github.com/python-rope/ropevim.git
+	url = git@github.com:python-rope/ropevim.git
 [submodule "bundle/syntastic"]
 	path = bundle/syntastic
-	url = https://github.com/scrooloose/syntastic.git
+	url = git@github.com:scrooloose/syntastic.git
 [submodule "bundle/jedi-vim"]
 	path = bundle/jedi-vim
-	url = https://github.com/davidhalter/jedi-vim.git
+	url = git@github.com:davidhalter/jedi-vim.git
 [submodule "bundle/vim-scala"]
 	path = bundle/vim-scala
-	url = https://github.com/derekwyatt/vim-scala.git
+	url = git@github.com:derekwyatt/vim-scala.git
 [submodule "bundle/Dockerfile"]
 	path = bundle/Dockerfile
-	url = https://github.com/ekalinin/Dockerfile.vim.git
+	url = git@github.com:ekalinin/Dockerfile.vim.git
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
-	url = https://github.com/scrooloose/nerdtree.git
+	url = git@github.com:scrooloose/nerdtree.git
 [submodule "bundle/vim-coffee-script"]
 	path = bundle/vim-coffee-script
-	url = https://github.com/kchmck/vim-coffee-script.git
+	url = git@github.com:kchmck/vim-coffee-script.git
 [submodule "bundle/vim-json"]
 	path = bundle/vim-json
-	url = https://github.com/elzr/vim-json.git
+	url = git@github.com:elzr/vim-json.git
 [submodule "bundle/nerdtree-git-plugin"]
 	path = bundle/nerdtree-git-plugin
-	url = https://github.com/Xuyuanp/nerdtree-git-plugin.git
+	url = git@github.com:Xuyuanp/nerdtree-git-plugin.git
 [submodule "bundle/undotree"]
 	path = bundle/undotree
 	url = git@github.com:mbbill/undotree.git
 [submodule "bundle/mediawiki"]
 	path = bundle/mediawiki
-	url = https://github.com/chikamichi/mediawiki.vim
+	url = git@github.com:chikamichi/mediawiki.vim
 [submodule "bundle/csv.vim"]
 	path = bundle/csv.vim
 	url = git@github.com:chrisbra/csv.vim.git
 [submodule "bundle/vim-go"]
 	path = /home/len/.vim/bundle/vim-go
-	url = https://github.com/fatih/vim-go.git
+	url = git@github.com:fatih/vim-go.git
 [submodule "bundle/logstash"]
 	path = bundle/logstash
-	url = https://github.com/robbles/logstash.vim
+	url = git@github.com:robbles/logstash.vim
 [submodule "bundle/vim-gitgutter"]
 	path = bundle/vim-gitgutter
 	url = git@github.com:airblade/vim-gitgutter.git
 [submodule "bundle/typescript-vim"]
 	path = bundle/typescript-vim
-	url = https://github.com/leafgarland/typescript-vim.git
+	url = git@github.com:leafgarland/typescript-vim.git
