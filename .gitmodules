@@ -62,7 +62,7 @@
 	path = bundle/csv.vim
 	url = git@github.com:chrisbra/csv.vim.git
 [submodule "bundle/vim-go"]
-	path = /home/len/.vim/bundle/vim-go
+	path = bundle/vim-go
 	url = git@github.com:fatih/vim-go.git
 [submodule "bundle/logstash"]
 	path = bundle/logstash
