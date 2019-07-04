@@ -76,3 +76,6 @@
 [submodule "bundle/emmet-vim"]
 	path = bundle/emmet-vim
 	url = https://github.com/mattn/emmet-vim.git
+[submodule "bundle/toml"]
+	path = bundle/toml
+	url = git@github.com:cespare/vim-toml.git
